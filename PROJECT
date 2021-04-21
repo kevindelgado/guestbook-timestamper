@@ -1,0 +1,5 @@
+domain: my.domain
+layout: go.kubebuilder.io/v3
+projectName: guestbook-4-16
+repo: guestbook-4-16
+version: "3"
